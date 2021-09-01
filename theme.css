@@ -1,0 +1,8 @@
+textarea {
+    white-space:nowrap;
+    overflow: scroll;
+    overflow-y: scroll;
+    height: 200px;
+    width: 100%;
+    resize: none;
+}
